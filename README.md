@@ -1,5 +1,5 @@
 # Find-Similar-Celebrities
-이 저장소는 자신이 어떤 연예인과 닮았는지 알아볼 수 있는 프로그램입니다.
+자신이 어떤 연예인과 닮았는지 알아볼 수 있는 프로그램입니다.
 DB에 한국의 유명 연예인들을 주로 담았기 때문에, 비한국인의 경우 정확도가 떨어질 수 있습니다.
 
 This repository is a program to find out what kind of celebrity you look like.
@@ -7,7 +7,9 @@ Since Korea's famous celebrities are included in the database, accuracy can be r
 
 ## #Use
 정말 죄송하게도, 저의 실력부족으로 인해 패키징을 하지 못했습니다.
+
 실행은 파이썬을 통해 해야하며, 설치해야하는 라이브러리는 [Dependencies](#dependencies)에 작성해두었습니다.
+
 실행 전 설정해야하는 부분은 [Setting](#setting)에 작성해두었습니다.
 
 I'm really sorry, but I couldn't package it because of my lack of skills.
