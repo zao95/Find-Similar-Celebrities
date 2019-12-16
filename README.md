@@ -33,6 +33,7 @@ db_create 변수는 boolean으로, 첫 실행이나 연예인 이름 리스트�
 ratio는 정밀도로, 0에 가까워질수록 정밀해지지만, 아예 에러가 날 확률도 커집니다.
 
 10:11 of the main part of who should be set before running.
+
 The db_create variable is boolean, which is only changed to True if the first run or the list of celebrity names is changed.
 The ratio is precision, and the closer it gets to zero, the greater the probability of an error.
 
