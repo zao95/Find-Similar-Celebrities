@@ -6,8 +6,8 @@ This repository is a program to find out what kind of celebrity you look like.
 Since Korea's famous celebrities are included in the database, accuracy can be reduced for non-Koreans.  
 
 ## Usage
-정말 죄송하게도, 저의 실력부족으로 인해 패키징을 하지 못했습니다.  
-실행은 파이썬을 통해 해야하며, 설치해야하는 라이브러리는 [Dependencies](#dependencies)에 작성해두었습니다.  
+정말 죄송하게도, 저의 실력부족으로 인해 배포판 실행파일로 만들지 못했습니다.  
+실행은 파이썬을 통해 해야하며, 설치해야하는 라이브러리 및 버전은 [Dependencies](#dependencies)에 작성해두었습니다.  
 실행 전 설정해야하는 부분은 [Setting](#setting)에 작성해두었습니다.  
 
 I'm really sorry, but I couldn't package it because of my lack of skills.  
